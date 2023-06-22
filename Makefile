@@ -30,5 +30,3 @@ run: ## Runs the app
 
 clean: pyenv ## Cleans and rebuilds sleuth
 	rm -rf dist
-
-
